@@ -1,0 +1,24 @@
+{
+  "name": "clio-api",
+  "version": "0.1.0",
+  "description": "Unofficial package for straightforward integrations and node development with Clio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseebnqureshi/clio-api.git"
+  },
+  "keywords": [
+    "clio",
+    "api",
+    "oauth2"
+  ],
+  "author": "Haseeb Qureshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haseebnqureshi/clio-api/issues"
+  },
+  "homepage": "https://github.com/haseebnqureshi/clio-api#readme"
+}
